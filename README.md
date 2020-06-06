@@ -19,5 +19,3 @@ A aplicação Web foi feita usando [React](https://pt-br.reactjs.org/).
 O aplicatico mobile foi desenvolvido usando [React Native](https://reactnative.dev/), além disso, foi utilizado o [Expo](https://expo.io/), uma ferramenta que facilita o desenvolvimento mobile.
 
 ![alt text](img/mobile-home.png)
-![alt text](img/mobile-points.png)
-![alt text](img/mobile-detail.png)
