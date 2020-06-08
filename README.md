@@ -6,7 +6,7 @@ Um projeto totalmente voltado para fins ecológicos, um marketplace de coleta de
 
 ## Back-end
 
-No desenvolvimento da API Rest foi utilizado o [NodeJS](https://nodejs.org/en/).
+No desenvolvimento da API Rest foi utilizado o [Node.js](https://nodejs.org/en/).
 
 ## Web
 
