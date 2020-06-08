@@ -6,7 +6,7 @@ Um projeto totalmente voltado para fins ecológicos, um marketplace de coleta de
 
 ## Back-end
 
-No desenvolvimento da API Rest foi utilizado o [NodeJS](https://nodejs.org/en/) e a ferramenta [Knex.js](http://knexjs.org/) foi usada para conexão com banco dados.
+No desenvolvimento da API Rest foi utilizado o [NodeJS](https://nodejs.org/en/).
 
 ## Web
 
