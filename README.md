@@ -10,7 +10,7 @@ No desenvolvimento da API Rest foi utilizado o [Node.js](https://nodejs.org/en/)
 
 ## Web
 
-A aplicação Web foi feita usando [React](https://pt-br.reactjs.org/).
+A aplicação Web foi feita usando [ReactJS](https://pt-br.reactjs.org/).
 
 ![alt text](img/ecoleta-web.png)
 
